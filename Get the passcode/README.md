@@ -2,6 +2,7 @@ Download and extract the file
 We got an unknown file extention named crackMe   
 Use TrIDNET to identify its type  
 ![TrIDNET](TrIDNET.png)  
+<br>
 The file type is elf which is executable in linux  
 <br><br>
 By running the command file in linux we can double check its type  
