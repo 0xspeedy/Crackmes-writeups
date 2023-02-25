@@ -4,4 +4,4 @@ It is a very simple code as we see and there are some interesting strings
 ![main.png](main.png)  
 <br><br>
 By exploring strings section we find the name "mrmtg"  
-![strings.png](strings.png)
+![name.png](name.png)
