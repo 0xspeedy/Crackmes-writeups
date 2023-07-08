@@ -30,5 +30,5 @@ Then the program will pop up a sucess message
 <br><br>
 Then we apply the patches to the file. Edit -> Patch program -> Apply patches to input file ... then check Create backup box  
 Now, let's run the patched program again and type any random key  
-![patched](patched)  
+![patched.png](patched.png)  
 <br><br>
