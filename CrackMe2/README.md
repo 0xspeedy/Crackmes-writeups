@@ -1,5 +1,5 @@
 When we run the file "CrackMe2" it shows that it is not registered  
-![unregistered.png](unregistered)
+![unregistered.png](unregistered.png)
 <br><br>
 Let's disassemble in IDA and got to the start point  
 ![start.png](start.png)
