@@ -15,4 +15,4 @@ We can find it compares the user input with the word "Dad"
 <img src="compiled.png" width="600" height="400">  
 <br><br>
 Now let's try the word we found  
-![right.png](right.png)
+<img src="right.png" width="600" height="100">
