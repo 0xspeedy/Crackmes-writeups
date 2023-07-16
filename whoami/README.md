@@ -4,7 +4,7 @@ when we enter a random answer it replis with "Wrong"
 <img src="wrong.png" width="600" height="100">  
 <br><br>
 Let's load it into Ghidra and search for strings for any keyword like "who am i"  
-![search.png](search.png)  
+<img src="search.png" width="600" height="600">  
 <br><br>
 Click on it to go to its location in the memory  
 ![fucnction.png](function.png)  
