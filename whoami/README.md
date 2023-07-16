@@ -7,7 +7,7 @@ Let's load it into Ghidra and search for strings for any keyword like "who am i"
 <img src="search.png" width="600" height="400">  
 <br><br>
 Click on it to go to its location in the memory  
-![fucnction.png](function.png)  
+<img src="function.png" width="600" height="600">  
 <br><br>
 It is in the function called "FUN_00418b80"  
 Click on the fucntion to open it in the decomplier  
