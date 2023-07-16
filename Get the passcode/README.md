@@ -15,7 +15,7 @@ We can add execute permissions with the command chmod
 <img src="chmod.png" width="600" height="150">
 <br><br>
 Then we run the executable file. It prompts us to enter a passcode. I tried a random number and it was wrong  
-<img src="wrong.png" width="600" height="250">  
+<img src="wrong.png" width="600" height="150">  
 <br><br>
 Load the file into Ghidra to analyze  
 ![ghidra](ghidra.png)  
