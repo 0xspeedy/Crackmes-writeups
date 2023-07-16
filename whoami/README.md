@@ -1,7 +1,7 @@
 Downlwoad and extract the file to get a file called "whoami_0x01.exe"  
 When we run the file it prompts us to answer the question "Who am I?"  
 when we enter a random answer it replis with "Wrong"  
-<img src="wrong.png" width="600" height="400">  
+<img src="wrong.png" width="100" height="100">  
 <br><br>
 Let's load it into Ghidra and search for strings for any keyword like "who am i"  
 ![search.png](search.png)  
