@@ -9,13 +9,13 @@ By running the command file in linux we can double check its type
 ![file](file.png)  
 <br><br>
 But the file doesn't have execute permession  
-![ls](ls.png)  
+<img src="ls.png" width="600" height="100">  
 <br><br>
 We can add execute permissions with the command chmod  
-![chmod](chmod.png)  
+<img src="chmod.png" width="600" height="150">
 <br><br>
 Then we run the executable file. It prompts us to enter a passcode. I tried a random number and it was wrong  
-![wrong](wrong.png)  
+<img src="wrong.png" width="600" height="250">  
 <br><br>
 Load the file into Ghidra to analyze  
 ![ghidra](ghidra.png)  
