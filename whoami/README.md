@@ -12,7 +12,7 @@ Click on it to go to its location in the memory
 It is in the function called "FUN_00418b80"  
 Click on the fucntion to open it in the decomplier  
 We can find it compares the user input with the word "Dad"  
-![complied.png](compiled.png)  
+<img src="compiled.png" width="600" height="400">  
 <br><br>
 Now let's try the word we found  
 ![right.png](right.png)
