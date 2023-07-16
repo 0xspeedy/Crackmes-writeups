@@ -18,7 +18,7 @@ Then we run the executable file. It prompts us to enter a passcode. I tried a ra
 <img src="wrong.png" width="600" height="250">  
 <br><br>
 Load the file into Ghidra to analyze  
-![ghidra](ghidra.png)  
+<img src="ghidra.png" width="600" height="600">  
 <br>
 This the main function and we can see 2 variables local_c and local_10 (it can be different names with you)  
 There is a hardcoded value stored in local_c and then it is compared with the value in local_10. Local_10 is the input which is the user enters  
